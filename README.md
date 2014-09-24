@@ -1,4 +1,4 @@
 crypto-icons
 ============
 
-Crypto currency icons
+Crypto currency icons, including font icon files.
