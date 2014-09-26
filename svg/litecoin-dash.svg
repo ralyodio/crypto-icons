@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>litecoin-dash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bitcoin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="litecoin-dash" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-3" fill="#6C6C6C" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128" rx="8"></rect>
+            <path d="M58.9019561,90.3156576 L64.5562848,69.0245424 L77.9430788,64.1337833 L81.2728561,51.6210758 L81.1596955,51.3106773 L67.9817727,56.1252909 L77.4761591,20.375 L50.5497515,20.375 L38.1332833,67.0299545 L27.766397,70.8171333 L24.3409091,83.7169136 L34.6998636,79.9323788 L27.3819682,107.428291 L99.0443591,107.428291 L103.637939,90.3156576 L58.9019561,90.3156576" id="litecoin" fill="#D5D5D5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

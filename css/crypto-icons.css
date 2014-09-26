@@ -1,0 +1,37 @@
+@font-face {
+	font-family: 'crypto-icons';
+	src:url('../fonts/crypto-icons.eot?-55k2es');
+	src:url('../fonts/crypto-icons.eot?#iefix-55k2es') format('embedded-opentype'),
+		url('../fonts/crypto-icons.woff?-55k2es') format('woff'),
+		url('../fonts/crypto-icons.ttf?-55k2es') format('truetype'),
+		url('../fonts/crypto-icons.svg?-55k2es#crypto-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="crypto-icon-"], [class*=" crypto-icon-"] {
+	font-family: 'crypto-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.crypto-icon-dogecoin-d:before {
+	content: "\e600";
+}
+.crypto-icon-litecoin-dash:before {
+	content: "\e601";
+}
+.crypto-icon-bitcoin-dash:before {
+	content: "\e602";
+}
+.crypto-icon-bitcoin-double:before {
+	content: "\e603";
+}

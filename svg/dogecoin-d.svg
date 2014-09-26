@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>dogecoin-d</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bitcoin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="dogecoin-d" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-4" fill="#6C6C6C" sketch:type="MSShapeGroup" x="0" y="0" width="128" height="128" rx="8"></rect>
+            <path d="M21.2548891,21.2548891 L75.5950603,21.2548891 C75.5950603,21.2548891 94.6591353,24.9465901 102.373279,44.8574202 C102.373279,44.8574202 113.420899,71.0324382 97.0525099,94.258739 C97.0525099,94.2582651 86.8535402,107.063364 74.1128834,107.063364 L21.2548891,107.063364 L21.2548891,86.8113683 L32.2835557,86.8113683 L32.2835557,41.5376849 L21.4638533,41.5376849 L21.2548891,21.2548891 Z M56.5072933,41.5954936 L68.0998316,41.5954936 C68.0998316,41.5950198 73.4779354,42.7383999 77.2113345,53.3183384 C77.2113345,53.3183384 82.1904636,68.5296061 74.3910285,80.6106752 C74.3910285,80.6106752 70.2572331,86.5900842 65.727306,86.5900842 L56.705833,86.5900842 L56.5072933,41.5954936 Z" id="Fill-3" fill="#D5D5D5" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
